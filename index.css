@@ -203,6 +203,8 @@ footer {
 }
 
 footer img{
-    height: 5%;
+    image-rendering: crisp-edges;
+    height: 200px;
+    width: 100%;
 }
 
