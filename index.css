@@ -192,4 +192,13 @@ img.mountain {
     margin: 2% 25%;
 }
 
+.bold {
+  color: black;
+  font-family: 'Roboto Mono Bold', monospace;
+  font-weight: 700;
+}
+
+footer img{
+    height: 5%;
+}
 
