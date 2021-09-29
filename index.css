@@ -178,3 +178,18 @@ img.mountain {
 .info .pOne {
   margin-bottom: 2.5%;
 }
+
+/* bottom section */
+
+.bottom img  {
+    max-width: 15%;
+    margin: 0 40%;
+   
+}
+
+.bottom p {
+    text-align: center;
+    margin: 2% 25%;
+}
+
+
