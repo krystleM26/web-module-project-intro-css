@@ -119,14 +119,27 @@ nav a {
   margin-left: 17%;
 }
 
+.orange:hover {
+    background-color: #FFDDAA;
+    color:black
+}
+
 .blue {
   background-color: #5ed3eb;
   margin: 0 17%;
+}
+.blue:hover {
+    background-color: cadetblue;
+    color: black;
 }
 
 .yellow {
   background-color: #ffcd69;
   margin-right: 17%;
+}
+.yellow:hover {
+    background-color: #FFDC97;
+    color: black;
 }
 
 /* top section style*/
@@ -203,7 +216,7 @@ footer {
 }
 
 footer img{
-    image-rendering: crisp-edges;
+   
     height: 200px;
     width: 100%;
 }
